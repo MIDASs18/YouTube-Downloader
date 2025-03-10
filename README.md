@@ -1,6 +1,6 @@
 # 🎵 YouTube to MP3 Downloader 🎵  
 
-Este es un programa de escritorio en Python que permite descargar audio de videos de YouTube en formato MP3. Es una alternativa ligera y funcional después del cierre de muchas aplicaciones piratas de Spotify.  
+Este es un programa de escritorio en Python que permite descargar audio de videos de YouTube en formato MP3. Es una alternativa ligera y funcional.  
 
 ## ✨ Características  
 ✅ Descarga individual o en lote desde un archivo de texto con URLs.  
